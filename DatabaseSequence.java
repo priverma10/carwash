@@ -1,4 +1,4 @@
-package com.customer.model;
+package com.order.model;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.annotation.Transient;
